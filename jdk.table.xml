@@ -1,0 +1,394 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\AppData\Local\Programs\Python\Python38\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python38/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-2104595879" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (BallGame)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\BallGame\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/BallGame/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/BallGame/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/BallGame/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/BallGame/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-944988542" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/BallGame" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (FirstGame)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\FirstGame\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FirstGame/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FirstGame/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/FirstGame/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/FirstGame/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/228609937" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/FirstGame" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (bot)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\bot\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/bot/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/bot/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/bot/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/bot/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/231790326" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/bot" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (mousemover)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\mousemover\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mousemover/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mousemover/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/mousemover/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mousemover/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/2000027597" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/mousemover" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (LETTEROFTHEDAY)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\LETTEROFTHEDAY\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/LETTEROFTHEDAY/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/LETTEROFTHEDAY/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/LETTEROFTHEDAY/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/LETTEROFTHEDAY/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1854957145" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/LETTEROFTHEDAY" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (HungrySteve)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\HungrySteve\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/HungrySteve/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/HungrySteve/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/HungrySteve/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/HungrySteve/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-560414571" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/HungrySteve" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (LoLbot)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\LoLbot\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/LoLbot/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/LoLbot/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/LoLbot/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/LoLbot/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1504416977" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/LoLbot" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (elementtester)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\elementtester\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/elementtester/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/elementtester/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/elementtester/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/elementtester/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1067596074" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/elementtester" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (checkersGame)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\checkersGame\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/checkersGame/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/checkersGame/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/checkersGame/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/checkersGame/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1958404415" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/checkersGame" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (BoydaFinalProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\BoydaFinalProject\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/BoydaFinalProject/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/BoydaFinalProject/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/BoydaFinalProject/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/BoydaFinalProject/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/989605499" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/BoydaFinalProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (projectRevised)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\projectRevised\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/projectRevised/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/projectRevised/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/projectRevised/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/projectRevised/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/551892516" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/projectRevised" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (SudokuSolverGUI)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\SudokuSolverGUI\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/SudokuSolverGUI/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/SudokuSolverGUI/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/SudokuSolverGUI/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/SudokuSolverGUI/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1564532192" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/SudokuSolverGUI" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (SudokuSolverGUI)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="C:\Users\devon\PycharmProjects\SudokuSolverGUI\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/SudokuSolverGUI" />
+    </jdk>
+  </component>
+</application>
